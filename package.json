@@ -1,0 +1,29 @@
+{
+  "name": "kffein-sprity-stylus",
+  "version": "0.1.1",
+  "description": "styl style processor for sprity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "sprites",
+    "sprite",
+    "styl",
+    "sprity",
+    "css-sprite"
+  ],
+  "author": "Kffein",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.24",
+    "fs-extra": "^0.18.0"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "cssesc": "^0.1.0",
+    "handlebars": "^3.0.1",
+    "mocha": "^2.2.4",
+    "prettydiff": "^1.11.11"
+  }
+}
