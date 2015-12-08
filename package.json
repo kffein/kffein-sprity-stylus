@@ -15,11 +15,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/KFFEIN/kffein-sprity-stylus"
+    "url": "https://github.com/kffein/kffein-sprity-stylus"
   },
-  "homepage": "https://github.com/KFFEIN/kffein-sprity-stylus",
+  "homepage": "https://github.com/kffein/kffein-sprity-stylus",
   "bugs": {
-    "url": "https://github.com/KFFEIN/kffein-sprity-stylus/issues"
+    "url": "https://github.com/kffein/kffein-sprity-stylus/issues"
   },
   "author": "Kffein",
   "license": "MIT",
