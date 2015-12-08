@@ -1,6 +1,6 @@
 {
   "name": "kffein-sprity-stylus",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "styl style processor for sprity",
   "main": "index.js",
   "scripts": {
