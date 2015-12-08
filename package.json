@@ -13,6 +13,14 @@
     "sprity",
     "css-sprite"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KFFEIN/kffein-sprity-stylus"
+  },
+  "homepage": "https://github.com/KFFEIN/kffein-sprity-stylus",
+  "bugs": {
+    "url": "https://github.com/KFFEIN/kffein-sprity-stylus/issues"
+  },
   "author": "Kffein",
   "license": "MIT",
   "dependencies": {
