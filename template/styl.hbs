@@ -26,11 +26,13 @@ sprite(sprite, display = block)
 {{#each layouts}}
 {{#each sprites}}
 {{#unless dpi}}
+sprite-image-path = '{{escimage url}}'
 .{{../../../indicator}}{{cssesc ../../classname}}
   background-image: url('{{escimage url}}')
 {{/unless}}
-{{#if dpi}}
 
+{{#if dpi}}
+sprite-image-path-{{dpi}} = '{{escimage url}}'
 @media (-webkit-min-device-pixel-ratio: {{ratio}}), (min-resolution: {{dpi}}dpi)
   .{{../../../indicator}}{{cssesc ../../classname}}
     background-image: url('{{escimage url}}')
